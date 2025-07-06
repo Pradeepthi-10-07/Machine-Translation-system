@@ -1,4 +1,3 @@
-A Machine Translation System aims to bridge language barriers by enabling automatic translation between two or more human languages. This system uses algorithms and language models to process input text in the source language and generate an equivalent, grammatically correct translation in the target language.
 
 # Key Features:
 1.  Translation between multiple languages (e.g., English ↔ Hindi, English ↔ French).
